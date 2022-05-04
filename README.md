@@ -8,8 +8,8 @@ Dette er alle filene som ble brukt i prosjektet. Koden har følgende navn:
   
   Inneholdet er:
   /*
-  *  Forklaring av hva koden gjør
-  * + om den skal kjøres et spesielt sted 
+   Forklaring av hva koden gjør
+  + om den skal kjøres et spesielt sted 
   */
   
   kodekodekode         //kommentarer
