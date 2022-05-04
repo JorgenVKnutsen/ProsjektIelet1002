@@ -5,6 +5,7 @@
 #include <Arduino.h>
 #include <avr/pgmspace.h>
 
+
 /*
 Definerer variabler som trengs i biblioteket
 */
