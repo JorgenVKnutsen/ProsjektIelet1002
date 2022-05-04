@@ -12,8 +12,8 @@ Speedo :: getBat(float spd, float batLevel) {
 }
 
 /*
-Henter rotasjonen til hjulene på zumoen siden sist ved å bruke Zumo32U4Encoders-bibliotek. Henter 
-verdier på begge hjul og regner ut gjennomsnitt. returnerer hastighet i cm/s
+Henter rotasjonen til hjulene på zumoen siden sist ved å bruke Zumo32U4Encoders-bibliotek. Henter
+verdier på begge hjul og regner ut gjennomsnitt. returnerer hastighet i cm/s 
 */
 // Input argument er en pointer (&)                              
 Speedo :: getSpeed(Zumo32U4Encoders &encoders) {      //counts rotation, then converts it to meter. Checks every second for speed/second. 
