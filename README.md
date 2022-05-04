@@ -4,7 +4,7 @@ Kodefiler til innleveringen av prosjekt
 
 Dette er alle filene som ble brukt i prosjektet. Koden har følgende navn:
 
-<hva den skal bli brukt på> + <hva den heter>.cpp
+hva den skal bli brukt på + hva den heter.cpp
   
   Inneholdet er:
   /*
