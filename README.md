@@ -1,4 +1,4 @@
-# ProsjektIelet1002
+# Prosjekt_Ielet1002
 Kodefiler til innleveringen av prosjekt
 
 
